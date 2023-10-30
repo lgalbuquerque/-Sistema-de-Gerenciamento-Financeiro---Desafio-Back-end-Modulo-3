@@ -69,7 +69,4 @@ This is a challenging project that meets strict security and functionality requi
 ### Autor
 
 <a href="https://github.com/lgalbuquerque)">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
 </a>
-
-[Licenca MIT License](http://creativecommons.org/licenses/by)
