@@ -17,10 +17,6 @@ In addition, the project includes extra features such as obtaining transaction s
 Please note that the project also requires token-based authentication for most of its features.
 This is a challenging project that meets strict security and functionality requirements for a financial management system. Feel free to contribute, suggest improvements, or use it as a reference for your own projects.
 
-<img src="https://img.shields.io/github/stars/jessicamedeirosp/PROJETO-CSS?style=social">
-<img src="https://img.shields.io/github/issues-pr-raw/jessicamedeirosp/PROJETO-CSS?style=social">
-<img src="https://img.shields.io/github/issues-closed/jessicamedeirosp/PROJETO-CSS?style=social">
-
 ### Languages and Tools
 
 - SQL
@@ -51,7 +47,6 @@ This is a challenging project that meets strict security and functionality requi
 - 401 (Unauthorized)
 - 403 (Forbidden)
 - 404 (Not Found)
-<img src="https://placehold.co/400x200"/>
 
 ### Contribute to the Project
 
@@ -65,8 +60,6 @@ This is a challenging project that meets strict security and functionality requi
 - [x] /login: Login
 - [x] /transacao/:id: View a logged-in user's transaction details
 - [x] /transacao: Add a transaction for the logged-in user
-
-### Autor
 
 <a href="https://github.com/lgalbuquerque)">
 </a>
