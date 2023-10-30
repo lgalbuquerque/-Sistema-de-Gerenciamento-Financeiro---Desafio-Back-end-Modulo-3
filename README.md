@@ -56,10 +56,10 @@ This is a challenging project that meets strict security and functionality requi
 
 ### Key Endpoints:
 
-- [x] /usuario: Register User
-- [x] /login: Login
-- [x] /transacao/:id: View a logged-in user's transaction details
-- [x] /transacao: Add a transaction for the logged-in user
+- [x] /usuario Register User
+- [x] /login Login
+- [x] /transacao/:id  View a logged-in user's transaction details
+- [x] /transacao Add a transaction for the logged-in user
 
 <a href="https://github.com/lgalbuquerque)">
 </a>
